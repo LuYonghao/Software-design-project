@@ -19,3 +19,5 @@ How I test my code?
 
 I write a java program to generate random test files (with amount and location of my choice), 
 then use these files in regression-test to compare my result to the expected output
+
+This java program is in myTestGen Folder.
